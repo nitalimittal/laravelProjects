@@ -35,6 +35,13 @@
 
 /*--------------Tasks Widget--------------*/
 
+.alert {
+  position: absolute;
+  z-index: 20;
+  bottom: 30px;
+  right: 10px;
+}
+
 a.catlink {
   color: teal;
 }
